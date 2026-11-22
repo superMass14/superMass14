@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Masseck%20Thiaw&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Scientist%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20AI%20Builder&descAlignY=58&descSize=18" width="100%" alt="header"/>
+<img src="assets/banner.svg" width="100%" alt="Masseck Thiaw, Data Scientist and Full-Stack Developer"/>
 
 <a href="https://github.com/superMass14">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=900&color=00E5FF&center=true&vCenter=true&width=700&height=50&lines=I+build+AI+%26+data+products+end+to+end+%F0%9F%A4%96;From+raw+data+to+deployed+models+%F0%9F%93%8A;Full-Stack+%C2%B7+Machine+Learning+%C2%B7+NLP+%C2%B7+Rust+%C2%B7+Go;Design+%C3%97+Code+%C3%97+Marketing+mindset+%F0%9F%8E%A8;Based+in+Dakar%2C+Senegal+%F0%9F%87%B8%F0%9F%87%B3+%E2%80%94+open+to+the+world+%F0%9F%8C%8D" alt="Typing SVG" />
@@ -57,6 +56,7 @@ I build **AI and data products end to end**: from raw data and models to web app
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets"/>
 </p>
 
@@ -127,4 +127,4 @@ I'm open to **full-time roles** and **freelance missions** (data, AI, web), loca
   <a href="https://linkedin.com/in/masseck-thiaw-2b389224"><img src="https://img.shields.io/badge/LinkedIn-Masseck%20Thiaw-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,26&height=120&section=footer" width="100%" alt="footer"/>
